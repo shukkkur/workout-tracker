@@ -1,14 +1,17 @@
+<h1 align='center'>Workout Tracking 🏋️</h1>
+
+
 <p align='center'>
-  <a href="https://www.artlabs.tech"><img src='https://github.com/ArtLabss/workout-tracking/blob/0d1e107029b40b6008d66591eedaab244ccedae3/Input/artLabs_new.png' ></a>
+  <a href="https://github.com/shukkkur/VolleyVision/forks?include=active%2Carchived%2Cinactive%2Cnetwork&page=1&period=2y&sort_by=stargazer_counts"><img src="https://img.shields.io/github/forks/shukkkur/workout-tracker.svg"></a>
+  <a href="https://github.com/shukkkur/VolleyVision/stargazers"><img src="https://img.shields.io/github/stars/shukkkur/workout-tracker.svg"></a>
+  <a href="https://github.com/shukkkur/VolleyVision/watchers"><img src="https://img.shields.io/github/watchers/shukkkur/workout-tracker.svg"></a>
+ 
+  <br>
+  <a href=""><img src="https://img.shields.io/github/last-commit/shukkkur/workout-tracker.svg"></a>
+  <img src="https://hits.sh/github.com/shukkkur/workout-tracker.svg"/>
+
 </p>
 
-<h1 align='center'>Workout Tracking 🏋️</h1>
-<p align='center'>
-<img src="https://img.shields.io/github/forks/ArtLabss/workout-tracking.svg"></a>
-  <img src="https://img.shields.io/github/stars/ArtLabss/workout-tracking.svg"></a>
-  <img src="https://img.shields.io/github/watchers/ArtLabss/workout-tracking.svg"></a>
-  <img src="https://img.shields.io/github/last-commit/ArtLabss/workout-tracking.svg"></a>
-</p>
 
 <p>Count the number of repetitions for 3 exercises: <strong>bench press</strong>, <strong>overhead press</strong> and <strong>dumbbells curl</strong></p>
 
