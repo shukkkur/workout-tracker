@@ -2,9 +2,9 @@
 
 
 <p align='center'>
-  <a href="https://github.com/shukkkur/VolleyVision/forks?include=active%2Carchived%2Cinactive%2Cnetwork&page=1&period=2y&sort_by=stargazer_counts"><img src="https://img.shields.io/github/forks/shukkkur/workout-tracker.svg"></a>
-  <a href="https://github.com/shukkkur/VolleyVision/stargazers"><img src="https://img.shields.io/github/stars/shukkkur/workout-tracker.svg"></a>
-  <a href="https://github.com/shukkkur/VolleyVision/watchers"><img src="https://img.shields.io/github/watchers/shukkkur/workout-tracker.svg"></a>
+  <a href="https://github.com/shukkkur/workout-tracker/forks"><img src="https://img.shields.io/github/forks/shukkkur/workout-tracker.svg"></a>
+  <a href="https://github.com/shukkkur/workout-tracker/stargazers"><img src="https://img.shields.io/github/stars/shukkkur/workout-tracker.svg"></a>
+  <a href="https://github.com/shukkkur/workout-tracker/watchers"><img src="https://img.shields.io/github/watchers/shukkkur/workout-tracker.svg"></a>
  
   <br>
   <a href=""><img src="https://img.shields.io/github/last-commit/shukkkur/workout-tracker.svg"></a>
